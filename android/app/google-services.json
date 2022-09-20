@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797941138984",
+    "project_id": "chrono-shop",
+    "storage_bucket": "chrono-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797941138984:android:50e3432b47fe86f1fa971d",
+        "android_client_info": {
+          "package_name": "support.twintech.chronoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797941138984-q0e7qd4t41ulobindkc4hl7jqh83inq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "support.twintech.chronoshop",
+            "certificate_hash": "ed09d006e45b2248c27bf7463a19e9efaffae93e"
+          }
+        },
+        {
+          "client_id": "797941138984-uu8jg9d0jbnukfm54b4phlq2fr4ukftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ALNZZVvWpCjewzijct7I8R7XdwvnH7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797941138984-uu8jg9d0jbnukfm54b4phlq2fr4ukftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
